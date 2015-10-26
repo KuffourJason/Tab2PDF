@@ -1,5 +1,7 @@
+** NOTE: I lost access to my old github account so this is now being hosted on my new account,
+** my old account github.com/sirajrauf-zz has the original repo (see below for link)
+
 CONTENTS
-This .zip contains FOUR files
 1. Design Documention (TAB2PDF - CSE2311 - Design Document.docx)
 2. Testing Documentation (TAB2PDF - CSE2311 - Test Documentation.docx)
 3. Requirements Documentation (TAB2PDF - CSE2311 - System Requirements, Client Perspective Rev. 08.pdf)
@@ -7,7 +9,7 @@ This .zip contains FOUR files
 
 ---------------------------------------------------------------------------------------------------------------
 GITHUB
-The GitHub link (https://github.com/sirajrauff/Tab2PDF) is also included for two reasons 
+The GitHub link (https://github.com/sirajrauff-zz/Tab2PDF) is also included for two reasons 
 1. Should the folder get corrupted/not work properly (Github automatically downloads only required files)
 2. GitHub cotains our changelogs which show what was changed when, why, and who did it
 	NOTE: GitHub was only used about halfway into course and does not contain records of everyone's work
